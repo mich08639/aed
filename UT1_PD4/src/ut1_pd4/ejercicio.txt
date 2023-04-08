@@ -1,0 +1,4 @@
+
+Cómo hace un programa para destruir un objeto que ha creado?
+ para eliminar un objeto es necesario eliminar todas las referencias a dicho objeto.
+
